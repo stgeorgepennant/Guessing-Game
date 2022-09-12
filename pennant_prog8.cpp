@@ -1,10 +1,8 @@
 /*
 Name: St George Pennant
 
-
 Description: number guessing game with a random number generator
 dynamic array to store game results.
-
 *************************************************************/
 #include <iostream> //standard library for i/o
 #include <string> // always include this when you use the string class
