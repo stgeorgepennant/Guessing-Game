@@ -1,9 +1,6 @@
 /*
 Name: St George Pennant
-Due Date: April 15, 2020
-Course:  C0P3014
-Assignment:  Program 8
-Professor: Sorgente
+
 
 Description: number guessing game with a random number generator
 dynamic array to store game results.
